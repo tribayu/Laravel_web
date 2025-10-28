@@ -525,8 +525,8 @@ ul {
     color: #333;
 }
 .tech-stack-tabs li a.active {
-    color: var(--color-teal);
-    border-bottom-color: var(--color-teal);
+    color: var(--color-yellow);
+   
 }
 
 .tech-stack-content .tab-panel {
